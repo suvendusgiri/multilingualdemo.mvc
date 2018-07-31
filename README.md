@@ -5,4 +5,4 @@ A simple multilingual login page created using ASP.Net MVC and Local Resources.
     <img src="https://azuredeploy.net/deploybutton.png"/>
 </a>
 
-Live Demo: http://multilingualdemoapp.azurewebsites.net/
+Live Demo: http://multilingualapp.azurewebsites.net/
